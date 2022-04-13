@@ -16,9 +16,8 @@ for tr in table_rows:
 
 Star_names = []
 Distance =[]
-Mass = []
-Radius =[]
-
+Mass=[]
+Radius=[]
 for i in range(1,len(temp_list)):
     
     Star_names.append(temp_list[i][0])
